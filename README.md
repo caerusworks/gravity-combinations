@@ -1,2 +1,2 @@
-# gravity-combinations
-Gravity Combinations Library for Sets Combinatorics
+# Gravity Combinations Library for Sets Combinatorics
+
